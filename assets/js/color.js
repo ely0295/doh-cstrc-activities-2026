@@ -1,6 +1,6 @@
 const owner = "ely0295";
 const repo = "doh-cstrc-activities-2026";
-const path = "json/activities.json";
+const path = "json/activities_with_id.json";
 const token = "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";
 
 const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
