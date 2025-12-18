@@ -28,9 +28,11 @@ function render(items) {
 async function addItem() {
   const title = document.getElementById("title").value;
   const date = document.getElementById("date").value;
-
+  const venue = document.getElementById("venue").value;
+  const proponent = document.getElementById("proponent").value;
+  const attendees = document.getElementById("attendees").value;
   const { content, sha } = await getData();
-  content.push({ id: Date.now(), title, date });
+  content.push({ id: Date.now(), date, title,venue,proponent,attendees });
 
   updateFile(content, sha);
 }
