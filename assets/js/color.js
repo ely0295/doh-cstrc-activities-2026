@@ -58,7 +58,7 @@ async function updateFile(content, sha) {
   });
 
   alert("Updated!");
-  location.reload();
+//  location.reload();
 }
 
 getData();
