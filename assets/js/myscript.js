@@ -20,7 +20,7 @@
       }, {});
     }
 
-  fetch("json/activities.json")
+  fetch("json/activities_with_id.json")
   .then(res => res.json())
   .then(data => {
      activities = groupByMonth(data);
@@ -85,4 +85,5 @@ function renderMonths() {
 
   function closeModal() {
     document.getElementById('modal').style.display = 'none';
+
   }
