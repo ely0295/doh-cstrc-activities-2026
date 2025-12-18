@@ -49,7 +49,7 @@ async function updateFile(content, sha) {
  
     headers: {
       Authorization: `Bearer ${token}`,
-      "Content-Type": "application/json"
+      Accept: "application/vnd.github+json"
     },
     body: JSON.stringify({
       message: "Update JSON data",
