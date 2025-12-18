@@ -1,7 +1,7 @@
 const owner = "ely0295";
 const repo = "doh-cstrc-activities-2026";
 const path = "json/activities_with_id.json";
-const token = "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";
+const token = "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";
 
 const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
 
@@ -32,7 +32,7 @@ async function addItem() {
   const proponent = document.getElementById("proponent").value;
   const attendees = document.getElementById("attendees").value;
   const { content, sha } = await getData();
-  content.push({ id: Date.now(), date, title,venue,proponent,attendees });
+  content.push({ id: Date.now(), DATE: date, ACTIVITY: title,VENUE:venue,PROPONENT:proponent,ATTENDEES:attendees });
 
   updateFile(content, sha);
 }
