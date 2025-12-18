@@ -19,7 +19,7 @@ function render(items) {
   items.forEach(item => {
     list.innerHTML += `
       <li>
-        ${item.title} (${item.date})
+        ${item.DATE} (${item.ACTIVITY})
         <button onclick="deleteItem(${item.id})">❌</button>
       </li>`;
   });
