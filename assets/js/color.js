@@ -46,8 +46,9 @@ async function deleteItem(id) {
 async function updateFile(content, sha) {
   await fetch(apiUrl, {
     method: "PUT",
+ 
     headers: {
-      Authorization: `token ${token}`,
+      Authorization: `Bearer ${token}`,
       "Content-Type": "application/json"
     },
     body: JSON.stringify({
