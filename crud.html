@@ -89,62 +89,7 @@ https://templatemo.com/tm-562-space-dynamic
     </div>
   </div>
 
-  <div id="activities" >
-    <div class="row">
-        <div class="col-lg-7 offset-lg-3">
-          <div class="section-heading  wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <h2>Schedule<em> of </em><span>Activities for year the 2026</span></h2>
-          </div>
-        </div>
-      </div>
-
-    <div class="about-us section" >
-    <div class="container">
-      
-      <div class="row">
-        <div class="col-lg-4">
-          <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <img src="assets/images/about-left-image.png" alt="person graphic">
-          </div>
-        </div>
-        <div class="col-lg-8 ">
-          <div class="services">
-            <div class="row" id="months">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
-  </div>
-
-
-
-  <div class="modal" id="modal">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h3 id="modalTitle"></h3>
-        <span class="close-btn" onclick="closeModal()">&times;</span>
-      </div>
-      <div id="modalBody">
-
-        <table class="table table-hover">
-          <thead>
-            <tr>
-              <th>Date</th>
-              <th>Activity</th>
-              <th>Venue</th>
-              <th>Proponent</th>
-              <th>Attendees</th>
-            </tr>
-          </thead>
-          <tbody id = "tbldata">
-            
-          </tbody>
-        </table>
-      </div>
-    </div>
-  </div>
+  
   <footer>
     <div class="container">
       <div class="row">
@@ -163,98 +108,9 @@ https://templatemo.com/tm-562-space-dynamic
   <script src="assets/js/imagesloaded.js"></script>
   <script src="assets/js/templatemo-custom.js"></script>
   <script>
-    let activities = {};
-    function groupByMonth(activities) {
-      return activities.reduce((result, item) => {
-        const date = new Date(item.DATE);
-        const month = date.toLocaleString("en-US", { month: "long" });
 
-        if (!result[month]) {
-          result[month] = [];
-        }
-
-        result[month].push({
-          ...item,
-          displayDate: date.toLocaleDateString("en-US", {
-            month: "short",
-            day: "numeric"
-          })
-        });
-
-        return result;
-      }, {});
-    }
-
-  fetch("json/activities.json")
-  .then(res => res.json())
-  .then(data => {
-     activities = groupByMonth(data);
-   
-  });
-  
-
-  const monthsEl = document.getElementById('months');
-
-  Object.keys(activities).forEach((month, index) => {
-
-  const col = document.createElement('div');
-  col.className = 'col-4';
-
-  const item = document.createElement('div');
-  item.className = 'item wow fadeIn';
-  item.onclick = () => openModal(month);
-
-  const icon = document.createElement('div');
-  icon.className = 'icon';
-
-   const item_logo = document.createElement('div');
-  icon.className = 'item-logo';
-  icon.innerHTML = '<i class="fa fa-calendar"></i>';
-
-  const rightText = document.createElement('div');
-  rightText.className = 'right-text';
-
-  rightText.innerHTML = `
-    <h4 style ='font-size:12pt;'>${month}</h5>
-    <p>${activities[month].length} Activities</p>
-  `;
-
-  item.appendChild(icon);
-  item.appendChild(rightText);
-  col.appendChild(item);
-  monthsEl.appendChild(col);
-});
-  
-
-  function openModal(month) {
-    document.getElementById('modalTitle').textContent = month + ' 2026';
-    const body = document.getElementById('tbldata');
-    body.innerHTML = '';
-
-    activities[month].forEach(act => {
-      //body.innerHTML += `<div class="activity"><span class="date">${act.DATE}</span> – ${act.title}</div>`;
-      const date = new Date(act.DATE);
-
-      const formatted = date.toLocaleDateString("en-US", {
-        month: "short",
-        day: "numeric"
-      });
-      body.innerHTML += `<tr>
-              <td>${formatted}</td>
-              <td>${act.ACTIVITY}</td>
-              <td>${act.VENUE}</td>
-              <td>${act.PROPONENT}</td>
-              <td>${act.ATTENDEES}</td>
-            </tr>`;
-    });
-
-    document.getElementById('modal').style.display = 'flex';
-  }
-
-  function closeModal() {
-    document.getElementById('modal').style.display = 'none';
-  }
 </script>
 
 </body>
+
 </html>
