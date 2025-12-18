@@ -1,0 +1,1330 @@
+[
+  {
+    "id": 1,
+    "DATE": "2026-01-01",
+    "ACTIVITY": "New Year's Day (Holiday)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 2,
+    "DATE": "2026-01-13",
+    "ACTIVITY": "Time Management and Productivity Seminar",
+    "VENUE": "CSTRC",
+    "PROPONENT": "HRDU",
+    "ATTENDEES": "Selected employees and personnel"
+  },
+  {
+    "id": 3,
+    "DATE": "2026-01-13",
+    "ACTIVITY": "Submission of ISO Documents: QOPM , Q4 Monitoring Tool, Risk Register Monitoring",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 4,
+    "DATE": "2026-01-14",
+    "ACTIVITY": "IQA Committee Meeting Q1",
+    "VENUE": "CSTRC",
+    "PROPONENT": "IQA",
+    "ATTENDEES": "IQA Committee"
+  },
+  {
+    "id": 5,
+    "DATE": "2026-01-14",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 6,
+    "DATE": "2026-01-16",
+    "ACTIVITY": "Submission: July - December 2025 IPCR Accomplishments",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 7,
+    "DATE": "2026-01-19",
+    "ACTIVITY": "ISO Re-Orientation",
+    "VENUE": "CSTRC",
+    "PROPONENT": "TEC",
+    "ATTENDEES": "All employees and personnel"
+  },
+  {
+    "id": 8,
+    "DATE": "2026-01-20",
+    "ACTIVITY": "Submission of PMT Documents: DPCR / SPCR  July - December 2025 Accomplishment\nIDP & Coaching Monitoring Form",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 9,
+    "DATE": "2026-01-26",
+    "ACTIVITY": "Submission of ISO Documents: QOP 2026, Risk and Opportunity 2026, SWOT, Stakeholder's Analysis",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 10,
+    "DATE": "2026-01-29",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 11,
+    "DATE": "2026-01-29",
+    "ACTIVITY": "Performance and Budget Utilization Review (PBUR) Q4 2025",
+    "VENUE": "TBA",
+    "PROPONENT": "OCAO",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 12,
+    "DATE": "2026-01-30",
+    "ACTIVITY": "Management Review (MR) Q4 2025",
+    "VENUE": "TBA",
+    "PROPONENT": "ISO Sec",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 13,
+    "DATE": "2026-01-30",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 14,
+    "DATE": "2026-02-10",
+    "ACTIVITY": "Workplace Committee Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Workplace",
+    "ATTENDEES": "Workplace Committee"
+  },
+  {
+    "id": 15,
+    "DATE": "2026-02-11",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 16,
+    "DATE": "2026-02-13",
+    "ACTIVITY": "Valentine's Day Celebration",
+    "VENUE": "CSTRC",
+    "PROPONENT": "MSW",
+    "ATTENDEES": null
+  },
+  {
+    "id": 17,
+    "DATE": "2026-02-13",
+    "ACTIVITY": "Meeting with NA Groups",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OAD",
+    "ATTENDEES": "NA Group (Naga) and OAD Staff"
+  },
+  {
+    "id": 18,
+    "DATE": "2026-02-17",
+    "ACTIVITY": "Chinese New Year (Special Non-Working Day)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 19,
+    "DATE": "2026-02-20",
+    "ACTIVITY": "ACS Group Dynamics Activity Q1",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS Staff & Clients"
+  },
+  {
+    "id": 20,
+    "DATE": "2026-02-24",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 21,
+    "DATE": "2026-02-25",
+    "ACTIVITY": "EDSA People Power Revolution Anniversary (Special Working Day)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 22,
+    "DATE": "2026-02-27",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 23,
+    "DATE": "2026-03-05",
+    "ACTIVITY": "IOP-ACP & Alumni Association Recovery Support Group",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Staff & Clients"
+  },
+  {
+    "id": 24,
+    "DATE": "2026-03-09",
+    "ACTIVITY": "National Women's Month Celebration",
+    "VENUE": "CSTRC",
+    "PROPONENT": "GAD",
+    "ATTENDEES": null
+  },
+  {
+    "id": 25,
+    "DATE": "2026-03-10",
+    "ACTIVITY": "OAD Health Series Q1",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Staff & Clients"
+  },
+  {
+    "id": 26,
+    "DATE": "2026-03-11",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 27,
+    "DATE": "2026-03-12",
+    "ACTIVITY": "OAD Women's Day Celebration",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OAD",
+    "ATTENDEES": null
+  },
+  {
+    "id": 28,
+    "DATE": "2026-03-18",
+    "ACTIVITY": "IOP Group Dynamics Activity",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Staff & Clients"
+  },
+  {
+    "id": 29,
+    "DATE": "2026-03-19",
+    "ACTIVITY": "Legal Lecture",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS staff and clients"
+  },
+  {
+    "id": 30,
+    "DATE": "2026-03-20",
+    "ACTIVITY": "Family Association Assembly Q1 2026",
+    "VENUE": "CSTRC",
+    "PROPONENT": "MSW",
+    "ATTENDEES": null
+  },
+  {
+    "id": 31,
+    "DATE": "2026-03-24",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 32,
+    "DATE": "2026-03-27",
+    "ACTIVITY": "Family and Resident's Recollection",
+    "VENUE": "CSTRC",
+    "PROPONENT": "MSW",
+    "ATTENDEES": null
+  },
+  {
+    "id": 33,
+    "DATE": "2026-03-27",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 34,
+    "DATE": "2026-03-30",
+    "ACTIVITY": "Ambulance Training (ALDP)",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Nursing",
+    "ATTENDEES": null
+  },
+  {
+    "id": 35,
+    "DATE": "2026-04-02",
+    "ACTIVITY": "Maundy Thursday (Holiday)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 36,
+    "DATE": "2026-04-03",
+    "ACTIVITY": "Good Friday (Holiday)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 37,
+    "DATE": "2026-04-04",
+    "ACTIVITY": "Black Saturday (Special Non-Working Day)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 38,
+    "DATE": "2026-04-06",
+    "ACTIVITY": "Submission ISO Documents: Q1 Monitoring Tool",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 39,
+    "DATE": "2026-04-08",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 40,
+    "DATE": "2026-04-09",
+    "ACTIVITY": "Araw ng Kagitingan",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 41,
+    "DATE": "2026-04-10",
+    "ACTIVITY": "IOP Spiritual Enhancement",
+    "VENUE": "TBA",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS clients and staff"
+  },
+  {
+    "id": 42,
+    "DATE": "2026-04-10",
+    "ACTIVITY": "Livelihood Training",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OAD",
+    "ATTENDEES": null
+  },
+  {
+    "id": 43,
+    "DATE": "2026-04-15",
+    "ACTIVITY": "Workplace Committee Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Workplace",
+    "ATTENDEES": "Workplace Committee"
+  },
+  {
+    "id": 44,
+    "DATE": "2026-04-15",
+    "ACTIVITY": "Residential CMT Meeting Q1",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Medical",
+    "ATTENDEES": "RID employees and personnel"
+  },
+  {
+    "id": 45,
+    "DATE": "2026-04-15",
+    "ACTIVITY": "Handling Basic Emergency (ALDP)",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Nursing",
+    "ATTENDEES": null
+  },
+  {
+    "id": 46,
+    "DATE": "2026-04-17",
+    "ACTIVITY": "ACS Spiritual Enhancement",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS Staff & Clients"
+  },
+  {
+    "id": 47,
+    "DATE": "2026-04-22",
+    "ACTIVITY": "IQA Committee Meeting Q2",
+    "VENUE": "CSTRC",
+    "PROPONENT": "IQA",
+    "ATTENDEES": "IQA Committee"
+  },
+  {
+    "id": 48,
+    "DATE": "2026-04-24",
+    "ACTIVITY": "OAD Manual Development",
+    "VENUE": "TBA",
+    "PROPONENT": "OAD",
+    "ATTENDEES": null
+  },
+  {
+    "id": 49,
+    "DATE": "2026-04-24",
+    "ACTIVITY": "ALS Graduation / Culminating",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Nursing",
+    "ATTENDEES": null
+  },
+  {
+    "id": 50,
+    "DATE": "2026-04-29",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 51,
+    "DATE": "2026-04-30",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 52,
+    "DATE": "2026-04-29",
+    "ACTIVITY": "Performance and Budget Utilization Review (PBUR) Q1 2026",
+    "VENUE": "TBA",
+    "PROPONENT": "OCAO",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 53,
+    "DATE": "2026-04-30",
+    "ACTIVITY": "Management Review (MR) Q1 2026",
+    "VENUE": "TBA",
+    "PROPONENT": "ISO Sec",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 54,
+    "DATE": "2025-05-26",
+    "ACTIVITY": "IPCC Committee Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "IPCC",
+    "ATTENDEES": "IPCC Committee"
+  },
+  {
+    "id": 55,
+    "DATE": "2026-05-01",
+    "ACTIVITY": "Labor Day ",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 56,
+    "DATE": "2026-05-07",
+    "ACTIVITY": "Employees Engagement / Mational Health Workers Day",
+    "VENUE": "TBA",
+    "PROPONENT": "OCAO",
+    "ATTENDEES": null
+  },
+  {
+    "id": 57,
+    "DATE": "2026-05-13",
+    "ACTIVITY": "5S Audit",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Workplace",
+    "ATTENDEES": "All employees and personnel"
+  },
+  {
+    "id": 58,
+    "DATE": "2026-05-13",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 59,
+    "DATE": "2026-05-14",
+    "ACTIVITY": "HIV Candlelight Memorial Ceremony",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Nursing",
+    "ATTENDEES": null
+  },
+  {
+    "id": 60,
+    "DATE": "2026-05-15",
+    "ACTIVITY": "External Stakeholder's Meeting",
+    "VENUE": "TBA",
+    "PROPONENT": "Legal",
+    "ATTENDEES": "Naga city / Cam Sur and Norte RTC Judges, COH, CHPO and coordinators"
+  },
+  {
+    "id": 61,
+    "DATE": "2026-05-21",
+    "ACTIVITY": "RID Livelihood Activity",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Livelihood",
+    "ATTENDEES": null
+  },
+  {
+    "id": 62,
+    "DATE": "2026-05-22",
+    "ACTIVITY": "Family Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS Family members"
+  },
+  {
+    "id": 63,
+    "DATE": "2026-05-22",
+    "ACTIVITY": "ACS Group Dynamics Activity Q2",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS Staff & Clients"
+  },
+  {
+    "id": 64,
+    "DATE": "2026-05-26",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 65,
+    "DATE": "2026-05-27",
+    "ACTIVITY": "Cam Sur Annual Foundation Anniversary (Special non-working holiday)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 66,
+    "DATE": "2026-05-29",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 67,
+    "DATE": "2025-06-26",
+    "ACTIVITY": "IDADAIT",
+    "VENUE": "TBA",
+    "PROPONENT": "Advocacy",
+    "ATTENDEES": null
+  },
+  {
+    "id": 68,
+    "DATE": "2026-06-04",
+    "ACTIVITY": "Livelihood Training",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OAD",
+    "ATTENDEES": null
+  },
+  {
+    "id": 69,
+    "DATE": "2026-06-09",
+    "ACTIVITY": "OAD Health Series Q2",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Staff & Clients"
+  },
+  {
+    "id": 70,
+    "DATE": "2026-06-09",
+    "ACTIVITY": "Submission of PMT Documents: DPCR / SPCR July - December 2026 Targets ",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 71,
+    "DATE": "2026-06-10",
+    "ACTIVITY": "ALS Program Orientation",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Nursing",
+    "ATTENDEES": null
+  },
+  {
+    "id": 72,
+    "DATE": "2026-06-10",
+    "ACTIVITY": "ISO and other documents review",
+    "VENUE": "CSTRC",
+    "PROPONENT": "IQA",
+    "ATTENDEES": "IQA Committee"
+  },
+  {
+    "id": 73,
+    "DATE": "2026-06-10",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 74,
+    "DATE": "2026-06-11",
+    "ACTIVITY": "Commitment Building Activity",
+    "VENUE": "TBA",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS staff and clients"
+  },
+  {
+    "id": 75,
+    "DATE": "2026-06-12",
+    "ACTIVITY": "Independence Day (Holiday)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 76,
+    "DATE": "2026-06-15",
+    "ACTIVITY": "Submission of PMT Documents: IPCR July - December 2026 Targets ",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 77,
+    "DATE": "2026-06-19",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 78,
+    "DATE": "2026-06-20",
+    "ACTIVITY": "Family Association Assembly Q2 2026",
+    "VENUE": "CSTRC",
+    "PROPONENT": "MSW",
+    "ATTENDEES": "Residential Client's Family"
+  },
+  {
+    "id": 79,
+    "DATE": "2026-06-25",
+    "ACTIVITY": "Residential Mid-Year Program Implementation Review",
+    "VENUE": "TBA",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Div/Sec/selected staff"
+  },
+  {
+    "id": 80,
+    "DATE": "2026-06-26",
+    "ACTIVITY": "Aftercare Graduation and IOP Moving-up Ceremony",
+    "VENUE": "TBA",
+    "PROPONENT": "OPS",
+    "ATTENDEES": null
+  },
+  {
+    "id": 81,
+    "DATE": "2026-06-30",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 82,
+    "DATE": "2026-07-03",
+    "ACTIVITY": "OAD Mid-Year Program Implementation Review",
+    "VENUE": "TBA",
+    "PROPONENT": "OAD",
+    "ATTENDEES": "OAD staff"
+  },
+  {
+    "id": 83,
+    "DATE": "2026-07-06",
+    "ACTIVITY": "Submission ISO Documents: QOPM, Q2 Monitoring Tool, Risk Register Monitoring",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 84,
+    "DATE": "2026-07-06",
+    "ACTIVITY": "Internal Quality Audit (IQA)",
+    "VENUE": "CSTRC",
+    "PROPONENT": "IQA",
+    "ATTENDEES": "All employees and personnel"
+  },
+  {
+    "id": 85,
+    "DATE": "2026-07-08",
+    "ACTIVITY": "Workplace Committee Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Workplace",
+    "ATTENDEES": "Workplace Committee"
+  },
+  {
+    "id": 86,
+    "DATE": "2026-07-08",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 87,
+    "DATE": "2026-07-13",
+    "ACTIVITY": "Internal Quality Audit (IQA)",
+    "VENUE": "CSTRC",
+    "PROPONENT": "IQA",
+    "ATTENDEES": "All employees and personnel"
+  },
+  {
+    "id": 88,
+    "DATE": "2026-07-13",
+    "ACTIVITY": "Learning and Development Needs Assessment",
+    "VENUE": "CSTRC",
+    "PROPONENT": "HRDU",
+    "ATTENDEES": "Selected employees and personnel"
+  },
+  {
+    "id": 89,
+    "DATE": "2026-07-15",
+    "ACTIVITY": "Residential CMT Meeting Q2",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Medical",
+    "ATTENDEES": "RID personnel"
+  },
+  {
+    "id": 90,
+    "DATE": "2026-07-15",
+    "ACTIVITY": "Blood Letting Activity",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Laboratory",
+    "ATTENDEES": "CSTRC Personnel Volunteer"
+  },
+  {
+    "id": 91,
+    "DATE": "2026-07-16",
+    "ACTIVITY": "Submission of PMT Documents:  IPCR January - June 2025 Accomplishments",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 92,
+    "DATE": "2026-07-17",
+    "ACTIVITY": "CSTRC Foundation Anniversary",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OCAO",
+    "ATTENDEES": "All employees and personnel"
+  },
+  {
+    "id": 93,
+    "DATE": "2026-07-21",
+    "ACTIVITY": "Submission of PMT Documents:  DPCR / SPCR January - June 2025 Accomplishments, IDP & Coaching Monitoring Form",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 94,
+    "DATE": "2026-07-24",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 95,
+    "DATE": "2026-07-25",
+    "ACTIVITY": "OAD Outreach Activity",
+    "VENUE": "TBA",
+    "PROPONENT": "OAD",
+    "ATTENDEES": null
+  },
+  {
+    "id": 96,
+    "DATE": "2026-07-30",
+    "ACTIVITY": "Performance and Budget Utilization Review (PBUR) Q2 2026",
+    "VENUE": "TBA",
+    "PROPONENT": "OCAO",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 97,
+    "DATE": "2026-07-31",
+    "ACTIVITY": "Management Review (MR) Q2 2026",
+    "VENUE": "TBA",
+    "PROPONENT": "ISO Sec",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 98,
+    "DATE": "2026-07-31",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 99,
+    "DATE": "2026-07-31",
+    "ACTIVITY": "Sports Fest 2026",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Nursing",
+    "ATTENDEES": null
+  },
+  {
+    "id": 100,
+    "DATE": "2026-08-11",
+    "ACTIVITY": "OAD Health Series Q3",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Staff & Clients"
+  },
+  {
+    "id": 101,
+    "DATE": "2026-08-12",
+    "ACTIVITY": "IQA Committee Meeting Q3",
+    "VENUE": "CSTRC",
+    "PROPONENT": "IQA",
+    "ATTENDEES": "IQA Committee"
+  },
+  {
+    "id": 102,
+    "DATE": "2026-08-12",
+    "ACTIVITY": "Observance of the International Youth Day",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": null
+  },
+  {
+    "id": 103,
+    "DATE": "2026-08-12",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 104,
+    "DATE": "2026-08-13",
+    "ACTIVITY": "Conduct of Learning and Development Planning (2027-2029)",
+    "VENUE": "TBA",
+    "PROPONENT": "HRDU",
+    "ATTENDEES": "Div / Sec / Com Heads/ HRDU staff"
+  },
+  {
+    "id": 105,
+    "DATE": "2026-08-13",
+    "ACTIVITY": "Effective Parenting Seminar",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS Clients and Family members"
+  },
+  {
+    "id": 106,
+    "DATE": "2026-08-13",
+    "ACTIVITY": "RID Livelihood Training",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Livelihood",
+    "ATTENDEES": null
+  },
+  {
+    "id": 107,
+    "DATE": "2026-08-14",
+    "ACTIVITY": "ACS Group Dynamics Activity Q3",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACP Staff & Clients"
+  },
+  {
+    "id": 108,
+    "DATE": "2026-08-21",
+    "ACTIVITY": "Ninoy Aquino Day (Special Non-Working Day)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 109,
+    "DATE": "2026-08-25",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACP Staff & Clients"
+  },
+  {
+    "id": 110,
+    "DATE": "2026-08-28",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 111,
+    "DATE": "2026-08-31",
+    "ACTIVITY": "National Heroes Day ( Holiday)",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": null
+  },
+  {
+    "id": 112,
+    "DATE": "2026-09-09",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 113,
+    "DATE": "2026-09-17",
+    "ACTIVITY": "Civic Parade",
+    "VENUE": "Naga City",
+    "PROPONENT": "Advocacy",
+    "ATTENDEES": null
+  },
+  {
+    "id": 114,
+    "DATE": "2026-09-18",
+    "ACTIVITY": "Family Association Assembly Q3 2026",
+    "VENUE": "CSTRC",
+    "PROPONENT": "MSW",
+    "ATTENDEES": null
+  },
+  {
+    "id": 115,
+    "DATE": "2026-09-22",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 116,
+    "DATE": "2026-09-24",
+    "ACTIVITY": "Legal Lecture",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS Clients and Family members"
+  },
+  {
+    "id": 117,
+    "DATE": "2026-09-25",
+    "ACTIVITY": "IOP Spiritual Enhancement",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Staff & Clients"
+  },
+  {
+    "id": 118,
+    "DATE": "2026-09-29",
+    "ACTIVITY": "ACS Spiritual Enhancement",
+    "VENUE": "TBA",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACP Staff & Clients"
+  },
+  {
+    "id": 119,
+    "DATE": "2026-09-30",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 120,
+    "DATE": "2026-10-01",
+    "ACTIVITY": "2nd ISO Surveillance Audit",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ISO Sec",
+    "ATTENDEES": "All employees and personnel"
+  },
+  {
+    "id": 121,
+    "DATE": "2026-10-06",
+    "ACTIVITY": "OAD Health Series Q4",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Staff & Clients"
+  },
+  {
+    "id": 122,
+    "DATE": "2026-10-07",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 123,
+    "DATE": "2026-10-14",
+    "ACTIVITY": "Work and Financial Plan (WFP)",
+    "VENUE": "TBA",
+    "PROPONENT": "OCAO",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 124,
+    "DATE": "2026-10-20",
+    "ACTIVITY": "Residential CMT Meeting Q3",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Medical",
+    "ATTENDEES": "RID personnel"
+  },
+  {
+    "id": 125,
+    "DATE": "2026-10-13",
+    "ACTIVITY": "Workplace Committee Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Workplace",
+    "ATTENDEES": "Workplace Committee"
+  },
+  {
+    "id": 126,
+    "DATE": "2026-10-15",
+    "ACTIVITY": "RID Livelihood Training",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Livelihood",
+    "ATTENDEES": "Residential patients"
+  },
+  {
+    "id": 127,
+    "DATE": "2026-10-16",
+    "ACTIVITY": "RID Livelihood Training",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Livelihood",
+    "ATTENDEES": "Residential patients"
+  },
+  {
+    "id": 128,
+    "DATE": "2026-10-21",
+    "ACTIVITY": "IOP Group Dynamics Activity",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Staff & Clients"
+  },
+  {
+    "id": 129,
+    "DATE": "2026-10-21",
+    "ACTIVITY": "5S Audit",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Workplace",
+    "ATTENDEES": "All employees and personnel"
+  },
+  {
+    "id": 130,
+    "DATE": "2026-10-23",
+    "ACTIVITY": "ACS Group Dynamics Activity Q4",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS Staff & Clients"
+  },
+  {
+    "id": 131,
+    "DATE": "2026-10-27",
+    "ACTIVITY": "Re-echo on Administrative Skills Enhancement",
+    "VENUE": "CSTRC",
+    "PROPONENT": "HRDU",
+    "ATTENDEES": " "
+  },
+  {
+    "id": 132,
+    "DATE": "2026-10-28",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 133,
+    "DATE": "2026-10-29",
+    "ACTIVITY": "Performance and Budget Utilization Review (PBUR) Q3 2026",
+    "VENUE": "TBA",
+    "PROPONENT": "OCAO",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 134,
+    "DATE": "2026-10-30",
+    "ACTIVITY": "Management Review (MR) Q3 2026",
+    "VENUE": "TBA",
+    "PROPONENT": "ISO Sec",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 135,
+    "DATE": "2026-10-30",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 136,
+    "DATE": "2025-11-26",
+    "ACTIVITY": "IPCC Committee Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "IPCC",
+    "ATTENDEES": "IPCC Committee"
+  },
+  {
+    "id": 137,
+    "DATE": "2026-11-01",
+    "ACTIVITY": "All Saint's Day Special (Non-Working Day)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 138,
+    "DATE": "2026-11-02",
+    "ACTIVITY": "All Soul's Day Special (Additional Non-working Day)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 139,
+    "DATE": "2026-11-05",
+    "ACTIVITY": "OAD World AIDS Day",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": null
+  },
+  {
+    "id": 140,
+    "DATE": "2026-11-11",
+    "ACTIVITY": "IQA Committee Meeting Q4",
+    "VENUE": "CSTRC",
+    "PROPONENT": "IQA",
+    "ATTENDEES": "IQA Committee"
+  },
+  {
+    "id": 141,
+    "DATE": "2026-11-11",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 142,
+    "DATE": "2026-11-13",
+    "ACTIVITY": "Commitment Building and Graduation",
+    "VENUE": "TBA",
+    "PROPONENT": "ACP",
+    "ATTENDEES": null
+  },
+  {
+    "id": 143,
+    "DATE": "2026-11-14",
+    "ACTIVITY": "DAPC",
+    "VENUE": "TBA",
+    "PROPONENT": "Advocacy",
+    "ATTENDEES": null
+  },
+  {
+    "id": 144,
+    "DATE": "2026-11-19",
+    "ACTIVITY": "Family Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS Clients and Family Members"
+  },
+  {
+    "id": 145,
+    "DATE": "2026-11-20",
+    "ACTIVITY": "Family Association Assembly Q4 2026",
+    "VENUE": "CSTRC",
+    "PROPONENT": "MSW",
+    "ATTENDEES": null
+  },
+  {
+    "id": 146,
+    "DATE": "2026-11-20",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 147,
+    "DATE": "2026-11-25",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 148,
+    "DATE": "2026-11-26",
+    "ACTIVITY": "Residential Year-End Program Implementation Review",
+    "VENUE": "TBA",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Div/Sec/selected staff"
+  },
+  {
+    "id": 149,
+    "DATE": "2026-11-27",
+    "ACTIVITY": "Aftercare Graduation and IOP Moving-up Ceremony",
+    "VENUE": "TBA",
+    "PROPONENT": "OPS",
+    "ATTENDEES": null
+  },
+  {
+    "id": 150,
+    "DATE": "2026-11-30",
+    "ACTIVITY": "Bonifacio Day",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 151,
+    "DATE": "2025-12-26",
+    "ACTIVITY": "Christmas Opening 2026",
+    "VENUE": "CSTRC",
+    "PROPONENT": "Nursing",
+    "ATTENDEES": null
+  },
+  {
+    "id": 152,
+    "DATE": "2026-12-04",
+    "ACTIVITY": "Family Day Celebration",
+    "VENUE": "CSTRC",
+    "PROPONENT": "MSW",
+    "ATTENDEES": null
+  },
+  {
+    "id": 153,
+    "DATE": "2026-12-04",
+    "ACTIVITY": "OAD Year-End Program Implementation Review",
+    "VENUE": "TBA",
+    "PROPONENT": "OAD",
+    "ATTENDEES": null
+  },
+  {
+    "id": 154,
+    "DATE": "2026-12-08",
+    "ACTIVITY": "Feast of the Immaculate Conception of Mary",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 155,
+    "DATE": "2026-12-09",
+    "ACTIVITY": "RDD Outreach Activity",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "ACS Staff & Clients"
+  },
+  {
+    "id": 156,
+    "DATE": "2026-12-09",
+    "ACTIVITY": "Submission of PMT Documents: DPCR / SPCR  January 2027 - June 2027 Targets",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 157,
+    "DATE": "2026-12-09",
+    "ACTIVITY": "IOP Family Orientation & PE Session",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Clients and Family members"
+  },
+  {
+    "id": 158,
+    "DATE": "2026-12-09",
+    "ACTIVITY": "Residential Section Heads Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "CHPO",
+    "ATTENDEES": "RID Section Heads"
+  },
+  {
+    "id": 159,
+    "DATE": "2026-12-10",
+    "ACTIVITY": "Narcotics Anonymous Meeting",
+    "VENUE": "CSTRC",
+    "PROPONENT": "ACS",
+    "ATTENDEES": "OAD Clients"
+  },
+  {
+    "id": 160,
+    "DATE": "2026-12-10",
+    "ACTIVITY": "2026 Year-End Program Review and Evaluation",
+    "VENUE": "TBA",
+    "PROPONENT": "OCAO",
+    "ATTENDEES": "Div / Sec / Com Heads"
+  },
+  {
+    "id": 161,
+    "DATE": "2026-12-11",
+    "ACTIVITY": "IOP Family Day",
+    "VENUE": "CSTRC",
+    "PROPONENT": "OPS",
+    "ATTENDEES": "OPS Staff & Clients"
+  },
+  {
+    "id": 162,
+    "DATE": "2026-12-15",
+    "ACTIVITY": "Submission of PMT Documents: IPCR  January 2027 - June 2027 Targets",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 163,
+    "DATE": "2026-12-24",
+    "ACTIVITY": "Christmas Eve (Holiday)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 164,
+    "DATE": "2026-12-25",
+    "ACTIVITY": "Christmas Day (Holiday)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 165,
+    "DATE": "2026-12-30",
+    "ACTIVITY": "Rizal Day (Holiday)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  },
+  {
+    "id": 166,
+    "DATE": "2026-12-31",
+    "ACTIVITY": "Last Day of the Year  (Special Non Working Day)",
+    "VENUE": null,
+    "PROPONENT": null,
+    "ATTENDEES": null
+  }
+]
